@@ -11,5 +11,4 @@ Perform detailed analysis on general store data including product sales, stock l
 
 
 ✅ Created as part of Data Analyst portfolio by **Nisha Jain**.
-<img width="4958" height="1865" alt="image" src="https://github.com/user-attachments/assets/9c8b4800-bb4b-41b3-8f3f-5097257c4f61" /><img width="13808" height="13817" alt="image" src="https://github.com/user-attachments/assets/eda9db2e-10e6-4bfb-b9b8-610596b92cce" /># Vrinda Store Data Analysis
-
+<img width="4958" height="1865" alt="image" src="https://github.com/user-attachments/assets/9c8b4800-bb4b-41b3-8f3f-5097257c4f61" />
